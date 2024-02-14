@@ -30,7 +30,7 @@ Youtube Video Link: [https://youtu.be/3bvUSIxfBsk](https://youtu.be/3bvUSIxfBsk)
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ramialkaro/lit-habit`
+1. Clone the repository: `git clone https://github.com/sathya-xd/e_library.git`
 2. Install the dependencies: `cd lit-habit && flutter pub get`
 3. Run the app: `flutter run`
 
