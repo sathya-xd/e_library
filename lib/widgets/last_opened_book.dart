@@ -23,13 +23,13 @@ class LastOpenedBook extends StatelessWidget {
                 context,
                 MaterialPageRoute(
                     builder: (context) => ReadingBook(
-                          pdfPath: "assets/harry_potter.pdf",
+                          pdfPath: "assets/book0.pdf",
                         )),
               );
             },
             child: BookCover3D(
               imageUrl:
-                  "https://m.media-amazon.com/images/I/418HLIXlxCL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+                  "https://bookwindow.in/image/uploads/1513759505buy-bharati-bhawan-concepts-of-physics-part-2-h-c-verma-online.png",
             ),
           ),
         ),

@@ -31,9 +31,33 @@ flutter:
   generate: true
   assets:
     - assets/images/
-    - assets/harry_potter.pdf
     - assets/loader.gif
-
+    - assets/book0.pdf
+    - assets/book1.pdf
+    - assets/book2.pdf
+    - assets/book3.pdf
+    - assets/book4.pdf
+    - assets/book5.pdf
+    - assets/book6.pdf
+    - assets/book7.pdf
+    - assets/book8.pdf
+    - assets/book9.pdf
+    - assets/book10.pdf
+    - assets/book11.pdf
+    - assets/book12.pdf
+    - assets/book13.pdf
+    - assets/book14.pdf
+    - assets/book15.pdf
+    - assets/book16.pdf
+    - assets/book17.pdf
+    - assets/book18.pdf
+    - assets/book19.pdf
+    - assets/book20.pdf
+    - assets/book21.pdf
+    - assets/book22.pdf
+    - assets/book23.pdf
+    - assets/book24.pdf
+    - assets/book25.pdf
 flutter_icons:
   android: true
   ios: true

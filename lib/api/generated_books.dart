@@ -37,7 +37,7 @@ List<Book> getAllBooks() {
       authorName: 'David Lodge',
       imageUrl:
           'https://m.media-amazon.com/images/I/418HLIXlxCL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
-          pdfPath: "assets\demo.pdf",
+          pdfPath: "assets/book0.pdf",
       lastOpenPage: 50,
       totalXP: 100,
     ),
@@ -54,7 +54,7 @@ List<Book> getAllBooks() {
       pages: 336,
       yearRelease: 2020,
       authorName: 'Author 2',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book1.pdf",
       imageUrl:
           'https://m.media-amazon.com/images/I/51mFoFmu0EL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
       lastOpenPage: 0,
@@ -77,7 +77,7 @@ List<Book> getAllBooks() {
       description:
           'A spiritual guide to living in the present moment and finding enlightenment, offering practical advice and insights for achieving inner peace and happiness.',
       rating: 4.6,
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book2.pdf",
       pages: 236,
     ),
     Book(
@@ -95,7 +95,7 @@ List<Book> getAllBooks() {
       imageUrl:
           'https://m.media-amazon.com/images/I/61dIUbhBA3L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
       lastOpenPage: 0,
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book3.pdf",
       totalXP: 0,
     ),
     Book(
@@ -109,7 +109,7 @@ List<Book> getAllBooks() {
       rating: 3.8,
       yearRelease: 2020,
       pages: 300,
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book4.pdf",
       authorName: 'Author 2',
       imageUrl:
           'https://m.media-amazon.com/images/I/41pTqRlersL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
@@ -127,7 +127,7 @@ List<Book> getAllBooks() {
       rating: 3.8,
       yearRelease: 2020,
       pages: 300,
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book5.pdf",
       authorName: 'Author 2',
       imageUrl:
           'https://m.media-amazon.com/images/I/51VC+Vru96L._SY344_BO1,204,203,200_.jpg',
@@ -145,7 +145,7 @@ List<Book> getAllBooks() {
       rating: 3.8,
       yearRelease: 2020,
       pages: 300,
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book6.pdf",
       authorName: 'Author 2',
       imageUrl:
           'https://m.media-amazon.com/images/I/41ZLnc34EiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
@@ -157,7 +157,7 @@ List<Book> getAllBooks() {
       category: Category.philosophy,
       isbn: '987654321',
       price: 12.99,
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book7.pdf",
       isFree: false,
       isPurchased: false,
       description: 'Description of Book 2',
@@ -175,7 +175,7 @@ List<Book> getAllBooks() {
       category: Category.science,
       isbn: '987654321',
       price: 12.99,
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book8.pdf",
       isFree: false,
       isPurchased: false,
       description: 'Description of Book 2',
@@ -190,7 +190,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 9',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book9.pdf",
       category: Category.technology,
       isbn: '987654321',
       price: 12.99,
@@ -208,7 +208,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 10',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book10.pdf",
       category: Category.travel,
       isbn: '987654321',
       price: 12.99,
@@ -226,7 +226,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 11',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book11.pdf",
       category: Category.children,
       isbn: '987654321',
       price: 12.99,
@@ -238,7 +238,7 @@ List<Book> getAllBooks() {
       pages: 300,
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/41UG6tNeHBL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+          'https://m.media-amazon.com/images/I/71BGPxxSwGL._AC_UF1000,1000_QL80_.jpg',
       lastOpenPage: 0,
       totalXP: 0,
     ),
@@ -256,8 +256,8 @@ List<Book> getAllBooks() {
       pages: 300,
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/41pehfGTI5L._SX311_BO1,204,203,200_.jpg',
-          pdfPath: "assets\demo.pdf",
+          'https://qph.cf2.quoracdn.net/main-qimg-405eb1562aa8154aa3e2da95e1cc89d1-lq',
+          pdfPath: "assets/book12.pdf",
       lastOpenPage: 0,
       totalXP: 0,
     ),
@@ -275,7 +275,7 @@ List<Book> getAllBooks() {
       
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/41HvCijjVbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+          'https://m.media-amazon.com/images/I/411SSrqKUFL._AC_UF1000,1000_QL80_.jpg',
       lastOpenPage: 0,
       totalXP: 0,
       pdfPath: 'assets/book13.pdf'
@@ -294,7 +294,7 @@ List<Book> getAllBooks() {
       pages: 300,
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/41x4eg5KyGL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+          'https://d2l.ai/_images/front-cup.jpg',
       lastOpenPage: 0,
       totalXP: 0,
       pdfPath: "assets/book14.pdf"
@@ -313,7 +313,7 @@ List<Book> getAllBooks() {
       pages: 300,
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/41zWWzbiHpL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+          'https://m.media-amazon.com/images/I/A1HJksGkh6L._AC_UF1000,1000_QL80_.jpg',
       lastOpenPage: 0,
       totalXP: 0,
       pdfPath: "assets/book15.pdf"
@@ -332,7 +332,7 @@ List<Book> getAllBooks() {
       pages: 300,
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/51yfA5Mo1hL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+          'https://www.interviewbit.com/blog/wp-content/uploads/2022/02/Algorithms.jpg',
       lastOpenPage: 0,
       totalXP: 0,
       pdfPath: "assets/book16.pdf"
@@ -358,7 +358,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 18',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book18.pdf",
       category: Category.fantasy,
       isbn: '987654321',
       price: 12.99,
@@ -376,7 +376,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 19',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book19.pdf",
       category: Category.fantasy,
       isbn: '987654321',
       price: 12.99,
@@ -397,7 +397,7 @@ List<Book> getAllBooks() {
       category: Category.artAndLit,
       isbn: '987654321',
       price: 12.99,
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book20.pdf",
       isFree: false,
       isPurchased: true,
       description: 'Description of Book 2',
@@ -412,7 +412,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 21',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book21.pdf",
       category: Category.business,
       isbn: '987654321',
       price: 12.99,
@@ -430,7 +430,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 22',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book22.pdf",
       category: Category.history,
       isbn: '987654321',
       price: 12.99,
@@ -448,7 +448,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 23',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book23.pdf",
       category: Category.philosophy,
       isbn: '987654321',
       price: 12.99,
@@ -466,7 +466,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 24',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets/book24.pdf",
       category: Category.religion,
       isbn: '987654321',
       price: 12.99,
@@ -484,7 +484,7 @@ List<Book> getAllBooks() {
     ),
     Book(
       title: 'Book 25',
-      pdfPath: "assets\demo.pdf",
+      pdfPath: "assets.pdf",
       category: Category.selfHelp,
       isbn: '987654321',
       price: 12.99,

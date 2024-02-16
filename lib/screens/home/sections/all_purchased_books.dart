@@ -13,7 +13,7 @@ class AllPurchasedBooks extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          "Waiting for you",
+          "Waiting for you to read!",
           style: Theme.of(context).textTheme.titleSmall,
         ),
         SingleChildScrollView(
@@ -38,7 +38,7 @@ class AllPurchasedBooks extends StatelessWidget {
               context,
               MaterialPageRoute(
                 builder: (context) => ReadingBook(
-                  pdfPath: "assets/harry_potter.pdf",
+                  pdfPath: book.pdfPath,
                 ),
               ),
             );

@@ -13,7 +13,7 @@ class KeepReadingSection extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          "Keep reading",
+          "computer science",
           style: Theme.of(context).textTheme.titleSmall,
         ),
         SingleChildScrollView(
