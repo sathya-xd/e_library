@@ -370,7 +370,7 @@ List<Book> getAllBooks() {
       pages: 300,
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/41hE3aJ7C0L._SX311_BO1,204,203,200_.jpg',
+          'https://www.perlego.com/books/RM_Books/robert_kiyosaki_vlwjvpo/9781365502033.jpg',
       lastOpenPage: 0,
       totalXP: 0,
     ),
@@ -406,7 +406,7 @@ List<Book> getAllBooks() {
       pages: 300,
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/41ORbvdT5ZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+          'https://imgv2-1-f.scribdassets.com/img/word_document/376526467/original/7c5e4db12b/1586408071?v=1',
       lastOpenPage: 0,
       totalXP: 0,
     ),
@@ -424,7 +424,7 @@ List<Book> getAllBooks() {
       pages: 300,
       authorName: 'Author 2',
       imageUrl:
-          'https://m.media-amazon.com/images/I/4120mVtteHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+          'https://i.thenile.io/r1000/9781627656573.jpg?r=5e978aebc799f',
       lastOpenPage: 0,
       totalXP: 0,
     ),

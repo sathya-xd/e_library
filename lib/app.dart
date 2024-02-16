@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
   Widget _buildLoadingScreen() {
     return Center(
       child: Image.asset(
-        'assets/loader.gif',
+        'assets/sathya.gif',
         fit: BoxFit.contain,
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,

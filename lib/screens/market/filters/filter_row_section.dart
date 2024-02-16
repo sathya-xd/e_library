@@ -43,7 +43,7 @@ class _FilterRowSectionState extends State<FilterRowSection> {
               style: TextStyle(
                   fontWeight: FontWeight.w500,
                   fontSize: 22,
-                  color: Colors.grey[400]),
+                  color: Colors.black),
             ),
           );
         }).toList(),

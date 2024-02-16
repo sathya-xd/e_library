@@ -31,7 +31,6 @@ flutter:
   generate: true
   assets:
     - assets/images/
-    - assets/loader.gif
     - assets/book0.pdf
     - assets/book1.pdf
     - assets/book2.pdf
@@ -58,6 +57,7 @@ flutter:
     - assets/book23.pdf
     - assets/book24.pdf
     - assets/book25.pdf
+    - assets/sathya.gif
 flutter_icons:
   android: true
   ios: true

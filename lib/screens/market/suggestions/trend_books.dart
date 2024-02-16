@@ -12,7 +12,7 @@ class TrendBooks extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          "Trend Now",
+          "NOVELS",
           style: Theme.of(context).textTheme.titleSmall,
         ),
         SingleChildScrollView(

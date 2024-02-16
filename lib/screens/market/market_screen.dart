@@ -14,7 +14,7 @@ class MarketScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Market",
+          "YOUR NEXT BOOK",
           style: Theme.of(context).textTheme.labelLarge,
         ),
       ),

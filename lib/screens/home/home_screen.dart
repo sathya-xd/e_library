@@ -13,7 +13,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "e-library",
+          "YOUR DASHBOARD",
           style: Theme.of(context).textTheme.labelLarge,
         ),
       ),
